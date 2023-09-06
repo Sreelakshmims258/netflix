@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 610px;
+     background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://assets.nflxext.com/ffe/siteui/vlv3/855ed6e2-d9f1-4afd-90da-96023ec747c3/85eb5b91-25ed-4965-ace9-ba8e4a0ead8d/IN-en-20230828-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+}
+.header ul{
+    display:inline-flex;
+    margin-top: 20px;
+
+}
+.image{
+    width: 150px;
+    margin-top: -50px;
+    margin-left: 150px;
+}
+.lang{
+    width: 95px;
+    height: 32px;
+  color:none;
+  background:none;
+   margin-left: 660px;
+   color: white;
+   font: inherit;
+   border-radius: 5px;
+}
+.but-n{
+  text-decoration: none;
+  border-radius: 4px ;
+  background:  #e50914;
+  padding: 5px 10px;
+  padding-top: -20px;
+  border: #fff;
+ margin-bottom: 100px;
+  margin-left: 10px;
+  color: #fff;
+  padding: 15px 20px;
+  padding-top: 2px;
+}
+
+.head1{
+    font-size: 3rem;
+    color:white;
+   display: flex;
+    margin-left: 250px;
+    padding-top: 110px;
+    font-weight: 800;
+}
+.head2{
+    font-size: 1.5rem;
+    color:white;
+    display: flex;
+    margin-left: 500px;
+    font-weight: 300;
+    padding-top: -100px;
+    border-spacing: 10px;
+    margin-top: 10px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+.head3{
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+   font-weight: lighter;
+    font-size: 1.5rem;
+    color:white;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+}
+.but-n1{
+    align-items: center;
+    text-decoration: none;
+    border-color: #fff;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+   margin: right 15px;
+   width: auto;
+   font-size: 1.5rem;
+   font-weight: 600;
+   min-height: 3.5rem;
+   padding: 0.75rem 1.5rem;
+   background: rgb(229,9,20);
+   color: rgb(255,255,255);
+   margin-left: 510px;
+}
+.control{
+   margin-left: 400px;
+   padding: 24px 90px;
+   background: none;
+   color: #1d2129;
+   border: #FFFFFF;
+  
+}
+.buttu{
+    padding: 18px 50px;
+    border-radius: 10px solid;
+    margin-left: 6px;
+    background: rgb(229, 9, 20);
+    font-size: 1.5rem;
+    font-weight: 500;
+    border-color: none;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+  
+}
+.control:hover{
+    border: #fff;
+}
